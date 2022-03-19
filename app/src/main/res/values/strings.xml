@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MisNotasApp</string>
+    <string name="fab_description">Agregar nota</string>
+
+    <string name="hint_titulo">Titulo de la nota</string>
+    <string name="hint_contenido">Contenido de la nota</string>
+    <string name="btn_guardar">Guardar nota</string>
+</resources>
